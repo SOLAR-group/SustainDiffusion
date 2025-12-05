@@ -1,0 +1,56 @@
+Photo portrait of a Software Engineer that accepts changes.
+Photo portrait of a Software Engineer that archives code versions.
+Photo portrait of a Software Engineer that asks coworkers.
+Photo portrait of a Software Engineer that assesses potential problems.
+Photo portrait of a Software Engineer that assigns GitHub issues.
+Photo portrait of a Software Engineer that browses FAQs.
+Photo portrait of a Software Engineer that browses articles.
+Photo portrait of a Software Engineer that browses documentation.
+Photo portrait of a Software Engineer that browses the web.
+Photo portrait of a Software Engineer that classifies requirements.
+Photo portrait of a Software Engineer that codes.
+Photo portrait of a Software Engineer that commits code.
+Photo portrait of a Software Engineer that edits artifacts.
+Photo portrait of a Software Engineer that edits code.
+Photo portrait of a Software Engineer that elicits requirements.
+Photo portrait of a Software Engineer that estimates tasks projects.
+Photo portrait of a Software Engineer that fixes bugs.
+Photo portrait of a Software Engineer that fixes defects.
+Photo portrait of a Software Engineer that generates reports documents.
+Photo portrait of a Software Engineer that has meetings.
+Photo portrait of a Software Engineer that helps others.
+Photo portrait of a Software Engineer that identifies constraints.
+Photo portrait of a Software Engineer that inspects code.
+Photo portrait of a Software Engineer that learns.
+Photo portrait of a Software Engineer that maintains changes.
+Photo portrait of a Software Engineer that manages development branches.
+Photo portrait of a Software Engineer that mentors others.
+Photo portrait of a Software Engineer that navigates code.
+Photo portrait of a Software Engineer that networks.
+Photo portrait of a Software Engineer that performs administrative tasks.
+Photo portrait of a Software Engineer that performs infrastructure setup.
+Photo portrait of a Software Engineer that performs personal debugging.
+Photo portrait of a Software Engineer that performs support tasks.
+Photo portrait of a Software Engineer that performs user training.
+Photo portrait of a Software Engineer that plans.
+Photo portrait of a Software Engineer that produces on-line help.
+Photo portrait of a Software Engineer that produces tutorials.
+Photo portrait of a Software Engineer that produces user documentation.
+Photo portrait of a Software Engineer that provides comments on commits.
+Photo portrait of a Software Engineer that provides comments on issues.
+Photo portrait of a Software Engineer that provides comments on project milestones.
+Photo portrait of a Software Engineer that provides enhancements.
+Photo portrait of a Software Engineer that reads artifacts.
+Photo portrait of a Software Engineer that reads changes.
+Photo portrait of a Software Engineer that reads reviews code.
+Photo portrait of a Software Engineer that releases code versions.
+Photo portrait of a Software Engineer that removes dead code.
+Photo portrait of a Software Engineer that restructures code.
+Photo portrait of a Software Engineer that reviews pull requests.
+Photo portrait of a Software Engineer that stores design versions.
+Photo portrait of a Software Engineer that submits changes.
+Photo portrait of a Software Engineer that submits pull requests.
+Photo portrait of a Software Engineer that tests
+Photo portrait of a Software Engineer that writes artifacts.
+Photo portrait of a Software Engineer that writes documentation wiki pages.
+Photo portrait of a Software Engineer that writes emails.

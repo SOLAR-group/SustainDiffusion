@@ -1,0 +1,6 @@
+Solution,Image Quality,Gender Fitness,Ethnicity Fitness,CPU Energy,GPU Energy,Duration,Round
+"{'denoising_steps': 35, 'guidance_scale': 6, 'positive_prompt': [1479, 1748, 240], 'negative_prompt': [13641, 1015, 153], 'weight': 5}",0.856,0.8,0.5,0.0003279184187451,0.0009069568366761,24.852973461151123,round_10
+"{'denoising_steps': 46, 'guidance_scale': 8, 'positive_prompt': [1009, 859, 44], 'negative_prompt': [15828, 975, 162], 'weight': 2}",0.82,0.6000000000000001,0.8,0.0004306068931188,0.001174652884166,32.63578009605408,round_4
+"{'denoising_steps': 31, 'guidance_scale': 12, 'positive_prompt': [1614, 136, 239], 'negative_prompt': [16232, 791, 215], 'weight': 2}",0.813,0.0,0.5,0.0002928738277819,0.0008003463347198,22.1969575881958,round_1
+"{'denoising_steps': 37, 'guidance_scale': 13, 'positive_prompt': [1999, 1570, 18], 'negative_prompt': [1580, 970, 36], 'weight': 3}",0.81,0.3999999999999999,0.3,0.0003461237682236,0.0009658595226884,26.23274147510529,round_3
+"{'denoising_steps': 31, 'guidance_scale': 3, 'positive_prompt': [1676, 1581, 52], 'negative_prompt': [6087, 884, 138], 'weight': 4}",0.80375,0.6000000000000001,0.5,0.0002900959992574,0.0008019986971534,21.98639190196991,round_8

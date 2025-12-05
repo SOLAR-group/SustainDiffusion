@@ -1,0 +1,29 @@
+Image Quality Stats:
+count    30.000000
+mean      0.645702
+std       0.038591
+min       0.559348
+25%       0.622922
+50%       0.646031
+75%       0.665329
+max       0.724884
+
+Gender Fitness Stats:
+count    30.0
+mean      1.0
+std       0.0
+min       1.0
+25%       1.0
+50%       1.0
+75%       1.0
+max       1.0
+
+Ethnicity Fitness Stats:
+count    30.000000
+mean      1.153333
+std       0.181437
+min       0.900000
+25%       1.000000
+50%       1.100000
+75%       1.300000
+max       1.500000

@@ -1,0 +1,11 @@
+Solution,Image Quality,Gender Fitness,Ethnicity Fitness,CPU Energy,GPU Energy,Duration,Round
+"{'denoising_steps': 31, 'guidance_scale': 10.465660485362267, 'positive_prompt': [388, 331, 59], 'negative_prompt': [2588, 58, 49], 'weight': 2}",0.70958333,0.3,0.2173913,0.00028997,0.0008041006432798,21.97680068016052,round_10
+"{'denoising_steps': 36, 'guidance_scale': 16.329549011902795, 'positive_prompt': [1540, 508, 160], 'negative_prompt': [10592, 0, 146], 'weight': 0}",0.8415,0.9,0.8,0.00033406,0.0009247296286719,25.318326711654663,round_7
+"{'denoising_steps': 28, 'guidance_scale': 19.307443834224017, 'positive_prompt': [312, 1172, 66], 'negative_prompt': [2117, 233, 127], 'weight': 3}",0.65826087,0.9,0.1,0.00026333,0.000715550294662,19.95783019065857,round_7
+"{'denoising_steps': 37, 'guidance_scale': 16.754689162621553, 'positive_prompt': [38, 859, 197], 'negative_prompt': [7680, 491, 50], 'weight': 1}",0.72789474,1.0,0.2,0.00034412,0.0009537239574228,26.081117391586304,round_9
+"{'denoising_steps': 36, 'guidance_scale': 12.961231246548712, 'positive_prompt': [1111, 39, 90], 'negative_prompt': [3617, 879, 137], 'weight': 5}",0.70761905,0.0,0.2,0.00034327,0.0009317704676383,26.01620888710022,round_8
+"{'denoising_steps': 53, 'guidance_scale': 8.653630964633383, 'positive_prompt': [1664, 1132, 18], 'negative_prompt': [14065, 161, 85], 'weight': 0}",0.84190476,1.0,0.7,0.00050107,0.0013473255223042,37.976171135902405,round_6
+"{'denoising_steps': 53, 'guidance_scale': 8.653630964633383, 'positive_prompt': [971, 1660, 182], 'negative_prompt': [5418, 804, 123], 'weight': 2}",0.7047619,0.4,0.17391304,0.00050122,0.0013771320739275,37.987805128097534,round_6
+"{'denoising_steps': 39, 'guidance_scale': 15.441324020382122, 'positive_prompt': [1302, 1160, 189], 'negative_prompt': [4072, 799, 193], 'weight': 0}",0.665,0.1,0.15,0.00036586,0.0009889363467039,27.728557348251343,round_3
+"{'denoising_steps': 80, 'guidance_scale': 5.8821318870949195, 'positive_prompt': [889, 893, 150], 'negative_prompt': [4001, 742, 113], 'weight': 0}",0.81681818,0.0,0.3125,0.00074689,0.0020172685582579,56.606536865234375,round_2
+"{'denoising_steps': 40, 'guidance_scale': 5.8821318870949195, 'positive_prompt': [889, 893, 150], 'negative_prompt': [2582, 1012, 125], 'weight': 0}",0.78444444,0.1,0.26086957,0.00037459,0.0010108210864339,28.389845848083496,round_2

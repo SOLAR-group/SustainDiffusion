@@ -1,0 +1,9 @@
+__pycache__
+.DS_Store
+Images
+logs
+*.sh
+.vscode
+runs
+yolo*
+hf_token.py
