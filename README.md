@@ -1,6 +1,6 @@
 # SustainDiffusion
 
-This repository contains the replication package for the paper _"SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models"_
+This repository contains the replication package for the paper _"SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models"_ accepted for publication at ICSE 2026 Research Track https://arxiv.org/abs/2507.15663 .
 
 ## Repository Structure
 
