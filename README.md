@@ -25,3 +25,17 @@ conda activate sdenv
 ```bash
 pip install -r requirements.txt
 ```
+
+## Citation Request
+
+Please cite our paper if you use _"SustainDiffusion"_ in your study:
+
+```bibtex
+@inproceedings{sustaindiffusion_2026,
+    title = {{SustainDiffusion}: {Optimising} the {Social} and {Environmental} {Sustainability} of {Stable} {Diffusion} {Models}},
+    url = {https://arxiv.org/abs/2507.15663},
+    author = {d'Aloisio, Giordano and Fadahunsi, Tosin and Choy, Jay and Moussa, Rebecca and Sarro, Federica},
+    booktitle={48th IEEE/ACM International Conference on Software Engineering, ICSE 2026},
+    year = {2026}
+}
+```
